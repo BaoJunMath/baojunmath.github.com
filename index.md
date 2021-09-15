@@ -8,7 +8,7 @@
       <p><b>邮箱：2969192931@qq.com</b></p>
     </td>
     <td width="35%">
-      <img src="/bj.jpg" width="30%">
+      <img src="/bj.jpg" width="100%">
     </td>
   </tr>
 </table>
